@@ -18,18 +18,18 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6287892711054','6287892711054','6287892711054']
-global.premium = ['6287892711054']
-global.packname = 'Shiro Bot'
-global.author = 'Ig: @zexyds_'
+global.owner = ['6285232604817','6285771052661','6285232604817']
+global.premium = ['6285771082661']
+global.packname = 'Koko Bot'
+global.author = 'Ig: @callme_rey1921'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    admin: 'Fitur Khusus Admin Tercantik dan Tamvan!',
+    botAdmin: 'Andai Kamu Tahu, Aku ini Bukan Admin Anjeng!',
+    owner: 'Fitur Khusus Majikan Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
